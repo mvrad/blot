@@ -1,0 +1,34 @@
+body {
+  position: relative;
+}
+
+h1, h2, h3, h4, p {
+  font-family: 'Roboto';
+  line-height: 1.5;
+  color: #000;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
