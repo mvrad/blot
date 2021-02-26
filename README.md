@@ -19,7 +19,6 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-  - [To Set Up Locally](#to-set-up-locally)
   - [About Blot](#about-blot)
     - [App Preview](#app-preview)
   - [Under The Hood](#under-the-hood)
