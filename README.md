@@ -6,7 +6,7 @@
 <div align="center">
   <h1>Blot</h1>
 </div>
-  <h3>Blot is a to-do app featuring user authentication created in the MERN framework with TypeScript and styled using Material-UI.</h3>
+  <h3>Blot is a to-do app created in the MERN framework with TypeScript featuring user authentication and Material-UI components.</h3>
 <p align="center">
   <a href="https://github.com/mvrad/blot/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="TravelStar is released under the MIT license.">
