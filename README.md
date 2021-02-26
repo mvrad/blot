@@ -117,6 +117,6 @@ Clicking the save icon saves the note to the bottom of the screen.
 Creating a new list works similary to creating a new note.
 <p align="center">
   <img  alt="Home Page" src="public/images/Web 1920 – 7.jpg" width="auto" height="auto" />
+  <img  alt="Home Page" src="public/images/Web 1920 – 15.jpg" width="auto" height="auto" />
   <img  alt="Home Page" src="public/images/Web 1920 – 16.jpg" width="auto" height="auto" />
-  <img  alt="Home Page" src="public/images/Web 1920 – 9.jpg" width="auto" height="auto" />
 </p>
